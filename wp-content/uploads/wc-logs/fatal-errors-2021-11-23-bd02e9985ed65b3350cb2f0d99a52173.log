@@ -1,0 +1,440 @@
+2021-11-23T19:09:12+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:09:20+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:09:36+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:10:10+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:10:22+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:10:41+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:10:57+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:11:06+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:11:15+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:11:21+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:11:25+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:11:29+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:11:39+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:12:03+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:12:10+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:12:12+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:12:15+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:12:19+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:12:29+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:13:07+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:13:22+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T19:13:28+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T23:37:35+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:37:41+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:37:44+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:37:48+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:38:22+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:38:41+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:38:57+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T23:38:59+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:39:04+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:557
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(557): in_array('form-row-first', NULL)
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 557
+
+2021-11-23T23:39:07+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:41:05+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:41:40+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:41:44+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:41:46+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:42:27+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:42:36+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:42:39+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:42:39+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:42:39+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:42:39+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:42:39+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+
+2021-11-23T23:42:41+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php:546
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php(546): implode(' | ', '')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_Checkout_Field_Editor->the_editor('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-admin\admin.php(259): do_action('woocommerce_pag...')
+#5 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce-checkout-field-editor\includes\class-wc-checkout-field-editor.php on line 546
+

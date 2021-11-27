@@ -1,0 +1,256 @@
+2021-11-22T11:54:45+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T11:54:52+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T11:54:57+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T11:55:47+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T11:56:23+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T11:57:57+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T11:58:01+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T11:58:23+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T11:59:43+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T11:59:50+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T12:00:15+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T12:00:42+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T12:01:00+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T12:01:10+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T12:01:38+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
+2021-11-22T12:04:50+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * float in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php:1621
+Stack trace:
+#0 C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php(758): YITH_WAPO_Frontend->get_display_price(Object(WC_Product_Variable), '', 'percentage', true, Object(WC_Product_Variation), NULL, '0')
+#1 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): YITH_WAPO_Frontend->yith_wapo_update_variation_price('')
+#2 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\suburprint\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(90): do_action('wc_ajax_yith_wa...')
+#5 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(303): WC_AJAX::do_wc_ajax('')
+#6 C:\xampp\htdocs\suburprint\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(false, Array)
+#7 C:\xampp\htdocs\suburprint\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\suburprint\wp-includes\template-loader.php(13): do_action('template_redire...')
+#9 C:\xampp\htdocs\suburprint\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\suburprint\index.php(17): require('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\suburprint\wp-content\plugins\yith-woocommerce-advanced-product-options-premium\includes\classes\class.yith-wapo-frontend.php on line 1621
+
